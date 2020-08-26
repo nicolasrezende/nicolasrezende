@@ -9,6 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/nicolas.rezendee/)](https://www.instagram.com/nicolas.rezendee/)
 
 💻 Atualmente trabalhando com .Net <br>
+😁 Apaixonado por boas práticas
 📚 Estudando React Js <br>
 📕 Cursando 7º semestre de Sistemas da Informação <br>
 🎧 Música <br>
