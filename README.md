@@ -13,3 +13,5 @@
 📕 Cursando 7º semestre de Sistemas da Informação <br>
 🎧 Música <br>
 🎮 Video game <br>
+
+Show me the code :)
