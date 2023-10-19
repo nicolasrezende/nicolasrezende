@@ -10,7 +10,7 @@
 💻 Atualmente trabalhando com .Net <br>
 😁 Apaixonado por boas práticas <br>
 📚 Estudando React Js <br>
-📕 Cursando 8º semestre de Sistemas da Informação <br>
+📕 Graduado em Sistemas da Informação <br>
 🎧 Música <br>
 🎮 Video game <br>
 
