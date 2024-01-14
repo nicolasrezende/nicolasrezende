@@ -2,6 +2,8 @@
 
 Software Engineer - São Paulo
 
+Currently working as a software engineer focused on the back-end. Enthusiast of good practices and design patterns.
+
 ### How to find me
 [![Linkedin Badge](https://img.shields.io/badge/-NicolasRezende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-rezende-4b02aa68/)](https://www.linkedin.com/in/nicolas-rezende-4b02aa68/)
 [![Gmail Badge](https://img.shields.io/badge/-nicolassilva114@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicolassilva114@gmail.com)](mailto:nicolassilva114@gmail.com)
