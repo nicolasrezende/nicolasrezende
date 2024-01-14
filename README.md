@@ -1,8 +1,8 @@
 # Nicolas Rezende
 
-Software Engineer - São Paulo
+Software Engineer
 
-Currently working as a software engineer focused on the back-end. Enthusiast of good practices and design patterns.
+Currently working as a software engineer focused on the back-end. Design patterns and software architecture enthusiast.
 
 ### How to find me
 [![Linkedin Badge](https://img.shields.io/badge/-NicolasRezende-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicolas-rezende-4b02aa68/)](https://www.linkedin.com/in/nicolas-rezende-4b02aa68/)
